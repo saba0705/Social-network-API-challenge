@@ -38,6 +38,8 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 - MondoDB
 - express.js
 
+- link to the walkthrough video : https://app.screencastify.com/v3/watch/vMByutml4O9vhY3A3j5u 
+
 ## Contributions
 We'd love for you to contribute! In order to do so, fork this repository. Your pull request will need approval in order to merge to main.
 
