@@ -1,6 +1,6 @@
 const {connect, connection} = require('mongoose');
 
-const connectionString = 'mongodb://localhost:27017/your-database-name';
+const connectionString = 'mongodb+srv://sabahjunaid:PWgK9xeiINGiu7Wn@cluster0.vjyqz6j.mongodb.net/social-network-db';
 
 connect(connectionString);
 
